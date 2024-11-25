@@ -1,0 +1,26 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]eploy/
+[Dd]ist/
+bin/
+obj/
+
+# User-specific files
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Tye service host files
+.tye/
+
+# User-specific configuration files
+.vscode/
+.idea/
